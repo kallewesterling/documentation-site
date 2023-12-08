@@ -1,0 +1,8 @@
+site_name: My documentation site
+nav:
+    - Home: index.md
+    - About: about.md
+    - API documentation:
+        - Start: api/index.md
+theme:
+    name: material
